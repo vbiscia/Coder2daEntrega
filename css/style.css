@@ -1,0 +1,49 @@
+/*.MenuPrincipal 
+{
+    background-color: rgb(5, 129, 98);
+    list-style: none;
+    text-align: center;
+    font-size: 25px;
+
+}
+*/
+.logo
+{
+    margin-right: 10px;
+    
+}
+
+.FooterPrincipal
+{
+    background-color: #086972;
+    text-align: end;
+    list-style: none;
+}
+
+h1
+{
+    font-size: 100px;
+    text-align: center;
+    color: rgb(5, 129, 98);
+}
+
+h2, h3
+{
+    background-color: blueviolet;
+}
+
+.Montserrat, .FooterPrincipal
+{
+    font-family: "Montserrat", sans-serif;
+   
+  }
+  /*CONSULTA! la vinculacion del font, es necesaria en cada HTML (PAGINA) entiendo que no porque en la clase footer lo trae en todos los HTML sin que lo declare en el head de cada html*/
+
+
+  .color.bg{
+    background-color:tomato;
+  }
+
+  header.container-fluid .navbar-brand.titulo-color {
+    color: #086972;
+}
